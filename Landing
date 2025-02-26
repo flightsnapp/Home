@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>FlightSnapp</title>
+    <style>
+      body { font-family: Arial, sans-serif; text-align: center; }
+      h1 { color: #333; }
+      p { color: #666; }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to FlightSnapp</h1>
+    <p>Your one-stop shop for flight deals.</p>
+    <p>Stay tuned for more updates.</p>
+  </body>
+</html>
